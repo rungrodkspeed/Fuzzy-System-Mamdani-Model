@@ -18,17 +18,17 @@
 
 - vaccum velocity membership function
 <p align="center">
-  <img src="/blob/vv.PNG" />
+  <img src="/blob/vv.png" />
 </p>
 
 - pump propeller velocity membership function
 <p align="center">
-  <img src="/blob/pv.PNG" />
+  <img src="/blob/pv.png" />
 </p>
 
 - fan velocity (output) membership function
 <p align="center">
-  <img src="/blob/fv.PNG" />
+  <img src="/blob/fv.png" />
 </p>
 
 ### Fuzzification
@@ -50,7 +50,7 @@
 -------------
 เมื่อคำนวณเสร็จแล้วจะได้ output ออกมาดังรูป
 <p align="center">
-  <img src="/blob/output.PNG" />
+  <img src="/blob/output.png" />
 </p>
 
 แต่ค่าที่ได้มานั้นยังอยู่ในรูปของ membership ดังนั้นเราจะต้อง defuzzification เพื่อให้เอ้าท์พุตอยู่รูปของช่วงตัวเลขที่สามารถควบคุมระบบได้
